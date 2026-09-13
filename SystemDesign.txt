@@ -1,0 +1,8 @@
+25-05-2026
+	Tiny url Code karle https://www.youtube.com/watch?v=AVztRY77xxA
+26-05-2026
+	System Design Interview - Tips & Tricks | Biggest Mistakes to Avoid
+	Database Design Tips | Choosing the Best Database in a System Design Interview
+	Notification Service System Design Interview Question to handle Billions of users & Notifications
+30-05-2026
+	Airbnb System Design | Booking.com System Design

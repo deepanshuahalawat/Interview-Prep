@@ -1,0 +1,129 @@
+25-05-2026
+	DSA - What, Why and How ?
+26-05-26
+	Analysis of Algo
+27-05-26
+	Mathematics
+		GCD of(a,b) = gcd(b, a%b) //do this recursively and return a when b=0;
+		PRIME NO check https://www.geeksforgeeks.org/batch/dsa-at-your-own-pace/track/DSASP-Mathematics/video/MTg0NQ%3D%3D
+		Sieve of Eratosthenes
+		X to the power n
+			https://www.geeksforgeeks.org/batch/dsa-at-your-own-pace/track/DSASP-Mathematics/video/MjEzNw%3D%3D
+	Bitwise
+		finding odd frequency no if two nos have odd frequency in array
+		https://www.geeksforgeeks.org/batch/dsa-at-your-own-pace/track/DSASP-BitMagic/video/MTQ5MDU%3D
+		Unsolved https://www.geeksforgeeks.org/batch/dsa-at-your-own-pace/track/DSASP-BitMagic/problem/count-total-set-bits-1587115620
+06-06-2026	
+	Recursion
+		https://www.geeksforgeeks.org/batch/dsa-at-your-own-pace/track/DSASP-Recursion/video/MjMzMQ%3D%3D
+		https://www.geeksforgeeks.org/batch/dsa-at-your-own-pace/track/DSASP-Recursion/problem/josephus-problem
+09-06-2026
+	Recursion
+		https://www.geeksforgeeks.org/batch/dsa-at-your-own-pace/track/DSASP-Recursion/problem/possible-words-from-phone-digits-1587115620
+10-06-2026
+	Array
+		Maximum diff in elements https://www.geeksforgeeks.org/batch/dsa-at-your-own-pace/track/DSASP-Arrays/video/MTE2NQ%3D%3D
+21-06-2026
+		Kadanes also
+			Max sum sub array
+			Max sum in circular array 
+		Morre's voting algo
+24-06-2026
+		Equilibrium Point
+		Maximum Appearing Element
+27-06-2026
+		Pending: Median of two sorted array 
+		Repeating Elements : Duplicate elements in array O(n) & O(1)
+		Pending Min no of pages to k students
+28-06-2026
+	sorting
+		pending Count inversions in array: count inversion in merge sort
+		Kth Smallest
+05-07-2026
+	Matrix
+		Rotate by 90 degree
+			Transpose ---> reverse each column
+	Hasing
+		Longest sub array based on condition
+		Longest common subarray in two arrays
+			https://www.geeksforgeeks.org/batch/dsa-at-your-own-pace/track/DSASP-Hashing/video/MjcwMw%3D%3D
+		Longest consecutive subseq
+			https://www.geeksforgeeks.org/batch/dsa-at-your-own-pace/track/DSASP-Hashing/video/MTM3Nw%3D%3D
+		More than n/k Occurences (O(nk) solution)
+			https://www.geeksforgeeks.org/batch/dsa-at-your-own-pace/track/DSASP-Hashing/video/MTgyNA%3D%3D
+			
+10-07-2026
+	String
+		KMP algorithm
+		is Anagram 
+		find all permutation of string
+		Rank The Permutations lexicographically
+		problems pending
+		
+11-07-2026
+	LinkList
+		Finding the merging node in a loop link list using floyd algo
+		Merge k sorted Listsin  O(nlogk) time
+19-07-2026
+	Stack
+		k stack in one array
+		Stock span problem
+		Monotonic stack
+			Largest/smallest nearest element to left and right 
+			Largest histogram area
+				with pse and nse array and with single scan
+			LArgest ractangle of 1s in metrix
+25-07-2026
+	Queue	
+		Gas station problem
+		Maximums of all subarrays of size k
+15-08-2026
+	Tree
+16-08-2026
+	Binary Search Tree
+		Unattempted Correct the BST if two nodes are swappe
+			https://www.geeksforgeeks.org/batch/dsa-at-your-own-pace/track/DSASP-BST/video/MTIwOQ%3D%3D
+17-08-2026
+	Graph
+22-08-2026
+	Trie
+	Segment tree
+	Disjoint set
+		Binary index tree pending
+		
+23-08-2026 to 30-08-2026
+	Revision of graph, heap, tree, binary tree, trie and disjoint set completed
+	
+30-08-2026
+	Backtracking started
+		N queen done
+		sudoku solver done
+		Subset I
+		LeetCode 90 — Subsets II: duplicate elements
+		Combination sum
+		Combination sum II
+02-09-2026
+	Backtracking paused
+02-09-2026
+	DP started
+		Longest Common subseq: memoization and tabulization
+		coin change LC332
+		edit distance
+		Longest increasing sub seq : memoization
+		Maximize The Cut Segments in rop: memoization GFG
+		Coin Change (Minimum Coins) LC:322
+		Minimum Jumps to reach at end LC:45
+		0-1 Knapsack on GFG
+		No of unique BSTs
+		House rob: LC 198
+		Stair climbing: LC 746
+		Target sum: LC 494. Target Sum
+11-09-2026
+		Prefix sum
+			Pivot point
+			Sub array sum k
+			
+
+
+	
+	

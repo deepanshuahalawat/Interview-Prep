@@ -1,0 +1,70 @@
+Prp started on 25-05-2026
+24-06-26
+	SD
+		Notification system
+	DSA
+		Min flip in array
+		Completed Array chapter
+		Array problems pending
+25-06-26 to 27-06-26
+	Search: Binary search in sorted array, video 14/18
+28-06-26
+	Sorting started and ended on 05-07-2026
+05-07-2026
+	Matrix started Matrix ended on some day
+10-07-2026
+	Hashing started and ended on 10-07-2026
+10-07-2026
+	String started, String ended
+11-07-20
+	LinkList started
+18-07026
+	Linklist ended
+19-07-2026
+	Stack started
+22-07-2026
+	Stack ended
+22-07-2026
+	Queue started
+25-07-2026
+	Queue ended
+27-07-2026
+	Dequeu ended
+29-07-2026
+	Linear DSA revesion started
+15-08-2026
+	Linear DSA revesion ended
+15-08-2026
+	Tree started
+16-08-2026
+	Tree ended
+16-08-2026
+	BST started
+	BST ended
+17-08-2026
+	Graph started
+22-08-2026
+	Graph ended
+22-08-2026
+	Trie started an ended
+22-08-2026
+	Segment tree started
+	Segment tree ended
+		Binary index tree pending
+23-08-2026
+	Non Linear DSA revesion started
+		Tree	done
+		Binary tree
+30-08-2026
+	Revision of graph(left few problems) competed
+	Revision Tries done
+	Revision Disjoint set done
+31-08-2026
+	DP 
+		Till 09-09-2026
+10-09-2026
+	DSA revesion started from start to DP
+10-09-2026
+	HLD resumed with 2 hours a day
+	
+	

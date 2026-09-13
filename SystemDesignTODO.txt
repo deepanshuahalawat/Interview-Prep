@@ -1,0 +1,31 @@
+URL Shortener
+Pastebin
+File Upload Service
+Notification Service
+Job Scheduler
+Chat System
+News Feed
+Metrics/Logging System
+Video Streaming
+Uber/Ride Matching
+Distributed Cache
+Search Engine
+
+
+
+Terms and tech 
+	Redis
+	Blob storage
+	Amazon S3
+	CDN
+	Text search engine
+		elestic search and solar
+	Time series database
+		Graphana, Promethius, Open TSDB
+	hadoop
+	ACID props
+	Document DB
+		MongoDB, couchbase
+	Columnner DB
+	Cassandra, HBase
+	

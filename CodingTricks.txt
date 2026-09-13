@@ -1,0 +1,11 @@
+map.put(key, map.getOrDefault(key, 0) + 1);
+
+Avoid overflow of integers
+	mid = (a+b)/2     ===>>    b+(a-b)/2;
+	
+Prefix sum
+	Prefix sum[i]  sum of element from 0 to i-1
+	Prefix sum[i] + Suffix sum[i] + arr[i]  = Sum of array
+	So if we know the prefix sum at any index in prefixSum array or using any variable like 'left' then we can clculate the suffix sum as 
+		suffix sum[i] = sum-leftSum[i] - arr[i], leftSum[i] need not to be a array it can be a accumilative variable
+		Problem: LC: 724 Find Pivot Index
