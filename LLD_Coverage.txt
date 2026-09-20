@@ -1,0 +1,16 @@
+OOps: github
+
+Design pattern:
+	Creational
+		Factory/abstract factory
+		Builder
+		Singleton
+		Prototype
+	Behavioural: CodeWithAryan
+		Streatigy
+		Observer: aryan
+		Iterator: aryan
+		Command: https://algomaster.io/learn/lld/command
+		mediator: https://algomaster.io/learn/lld/mediator
+		
+		

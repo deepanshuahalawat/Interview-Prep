@@ -24,7 +24,7 @@
 	Array
 		Maximum diff in elements https://www.geeksforgeeks.org/batch/dsa-at-your-own-pace/track/DSASP-Arrays/video/MTE2NQ%3D%3D
 21-06-2026
-		Kadanes also
+		Kadanes algo
 			Max sum sub array
 			Max sum in circular array 
 		Morre's voting algo
@@ -33,6 +33,7 @@
 		Maximum Appearing Element
 27-06-2026
 		Pending: Median of two sorted array 
+			https://www.geeksforgeeks.org/batch/dsa-at-your-own-pace/track/DSASP-Searching/video/MTQyMA%3D%3D
 		Repeating Elements : Duplicate elements in array O(n) & O(1)
 		Pending Min no of pages to k students
 28-06-2026
@@ -123,6 +124,9 @@
 			Pivot point
 			Sub array sum k
 			
+			
+17-09-2026
+		Neet 150 started
 
 
 	

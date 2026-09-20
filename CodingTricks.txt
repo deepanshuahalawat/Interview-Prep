@@ -9,3 +9,10 @@ Prefix sum
 	So if we know the prefix sum at any index in prefixSum array or using any variable like 'left' then we can clculate the suffix sum as 
 		suffix sum[i] = sum-leftSum[i] - arr[i], leftSum[i] need not to be a array it can be a accumilative variable
 		Problem: LC: 724 Find Pivot Index
+		
+		
+		
+		
+Inbuilt data structures
+	Min heap PriorityQueue<Integer> pq = new PriorityQueue<>();
+	Max heap PriorityQueue<Integer> pq = new PriorityQueue<>(Collections.reverseOrder());
