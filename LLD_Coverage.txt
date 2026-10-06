@@ -1,6 +1,8 @@
-OOps: github
+OOps: 	github
+		https://algomaster.io/learn/lld/15-must-know-oop-concepts
 
 Design pattern:
+	Quick revesion: https://algomaster.io/learn/lld/15-must-know-design-patterns
 	Creational
 		Factory/abstract factory
 		Builder
@@ -12,5 +14,32 @@ Design pattern:
 		Iterator: aryan
 		Command: https://algomaster.io/learn/lld/command
 		mediator: https://algomaster.io/learn/lld/mediator
+		State: https://algomaster.io/learn/lld/state
+		chain of responsibility: https://algomaster.io/learn/lld/chain-of-responsibility
+		Visitor: https://algomaster.io/learn/lld/visitor
+		memento: https://algomaster.io/learn/lld/memento
+	Structural		Adapter: https://algomaster.io/learn/lld/adapter
+		Decorator
+		Composite
+		Proxy
+		Facade
 		
+	Class relationship:	algomaster/github
+	
+	Design principle
+		DRY: Don't repeat yourself
+		KISS: Keep it simple stupid
+		YAGNI: Writing a feature which might be used in future
+		Law of diameter: avoid method chaining where different object calls the methods
+	Solid principles
+		Single responsibility
+		Open for extension close for modification: Open/close principle
+		Liskov's substitution principle
+		I Interface segrigation 
+		D Dependency inversion
+	UML diagram
+		Class diagram
+	Interview practice
+		Rate Limiter: shubh patel
+	
 		

@@ -497,6 +497,7 @@ StringBuilder sb = new StringBuilder();
 | `insert` | `O(n)` |
 | `reverse` | `O(n)` |
 | `toString` | `O(n)` |
+| `length()` | `O(1)` |
 
 ---
 
@@ -654,6 +655,8 @@ stack.peek();
 
 ```java
 PriorityQueue<Integer> pq = new PriorityQueue<>();
+//For custom Object pass the comparator
+PriorityQueue<ListNode> pq = new PriorityQueue<>((a, b) -> a.val - b.val);
 ```
 
 ## Max Heap

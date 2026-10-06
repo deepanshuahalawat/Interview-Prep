@@ -32,7 +32,7 @@
 	Prototype
 	Mediator
 	Memento
-	Tier D — Lower priority initially
+###	Tier D — Lower priority initially
 	Visitor
 	Flyweight
 	Bridge
